@@ -1,4 +1,4 @@
-# [AngularJS PAssword Strength Checker] 
+# AngularJS Password Strength Checker 
 
 ## Getting Started
 
@@ -12,7 +12,7 @@ Have a bug or an issue with this theme?  Feel Free to Buzz Me.
 
 ## Creator
 
-AngularJS-Passwod-Checker was created by and is maintained by **Emmmanuel Francis**, Maker of [Push Reactor](http://efk.ieee-siesgst.in/)
+AngularJS-Passwod-Checker was created by and is maintained by **Emmmanuel Francis**, Maker of [Push Reactor](http://pushreactor.com/)
 
 ## Copyright
 
